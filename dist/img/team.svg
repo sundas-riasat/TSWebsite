@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 523.51 215.11">
+    <defs>
+        <style>.cls-1, .cls-2, .cls-3 {
+            fill: #a4c2db;
+            }
+
+            .cls-1 {
+            opacity: 0.2;
+            }
+
+            .cls-1, .cls-2 {
+            isolation: isolate;
+            }
+
+            .cls-2 {
+            opacity: 0.48;
+            }</style>
+    </defs>
+    <title>team</title>
+    <g id="Group_37" data-name="Group 37">
+        <path id="Intersection_9-2" data-name="Intersection 9-2" class="cls-1"
+              d="M523.51,215.1H0V35.23C47.61,91.11,126.16,163.5,177.29,181.39c62.43,21.84,142.43,25.85,240.33,26.83,43.07.43,77,1.78,105.89,6.89Z"
+              transform="translate(0 -0.01)"/>
+        <path id="Intersection_8-2" data-name="Intersection 8-2" class="cls-2"
+              d="M0,215.11V.42A98.57,98.57,0,0,1,19.89.6C82.71,7.86,118.46,40.2,180.24,109c37.18,41.38,71.08,77.45,104.06,106.15Z"
+              transform="translate(0 -0.01)"/>
+        <path id="Intersection_7-2" data-name="Intersection 7-2" class="cls-3"
+              d="M182.84,215.11H0V100c48,16,85.18,41.49,145.67,87.28q19.1,14.49,37.17,27.85Z"
+              transform="translate(0 -0.01)"/>
+    </g>
+</svg>

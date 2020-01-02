@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 612 289" style="enable-background:new 0 0 612 289;" xml:space="preserve">
+<style type="text/css">
+	.st5a {
+        opacity: 0.2;
+        fill: #4998D3;
+        enable-background: new;
+    }
+
+    .st6a {
+        opacity: 0.48;
+        fill: #4998D3;
+        enable-background: new;
+    }
+
+    .st7a {
+        fill: #4998D3;
+    }
+</style>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+	<path id="Intersection_6-2" class="st5a" d="M0,289v-83.51c12.28-8.41,26.64-15.68,42.54-19.17c51.85-11.39,91.22-2.36,163.74,20.34
+		s132.84,39.54,186.05,42.71s163.26-27.25,209.32-47.59c3.36-1.49,6.82-2.73,10.35-3.72V289H0z"/>
+</g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+	<path id="Intersection_5-2" class="st6a" d="M0,289v-77.21c48.67,18.49,131.2,40.21,173.96,37.57
+		c49.11-3.03,104.76-19.13,171.69-40.83s103.25-30.33,151.1-19.44c40.61,9.24,98.62,46.21,115.26,57.19v10.42L591.66,289H0z"/>
+</g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+	<path id="Intersection_4-2" class="st7a" d="M0,289v-56.63c12.32-1.95,26.91-1.84,42.45,3.28c43.24,14.22,146.58,35.5,196.56,33.28
+		c49.97-2.22,106.61-14,174.71-29.87s105.07-22.19,153.76-14.22c16.94,2.77,32.04,8.95,44.52,15.84V289H0z"/>
+</g>
+</svg>
