@@ -648,6 +648,8 @@ textarea {
   .main-timeline,
   .service-timeline,
   .prod-timeline {
+    position:relative;
+    top: 10px;
     margin-top: 50px;
     width: 100%;
   }
@@ -676,8 +678,8 @@ textarea {
   .main-icon,
   .service-icon,
   .prod-icon {
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 50px;
     padding: 1px;
     margin: 0 auto !important;
   }
