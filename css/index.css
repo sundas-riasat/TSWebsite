@@ -588,6 +588,10 @@ textarea {
     display: none;
   }
 
+  .mob-height-container {
+    min-height: 400px;
+  }
+
   .main {
     margin: 0 auto;
     width: 100%;
@@ -622,7 +626,7 @@ textarea {
   }
 
   .home-ill {
-    max-height: 300px;
+    max-height: 250px;
     width: auto;
   }
 
@@ -648,7 +652,7 @@ textarea {
   .main-timeline,
   .service-timeline,
   .prod-timeline {
-    position:relative;
+    position: relative;
     top: 10px;
     margin-top: 50px;
     width: 100%;
@@ -786,6 +790,10 @@ textarea {
     padding-top: 0px;
   }
 
+  .prod {
+    min-height: 320px !important;
+  }
+
   .right-a,
   .left-a {
     font-size: 3em !important;
@@ -893,6 +901,10 @@ textarea {
     height: auto;
   }
 
+  .prod {
+    min-height: auto !important;
+  }
+
   .main-slide p {
     font-size: 1em !important;
   }
@@ -915,6 +927,10 @@ textarea {
 
   form {
     margin-top: 0%;
+  }
+
+  .mob-height-container {
+    min-height: max-content;
   }
 
   .left-a,
